@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400&family=Roboto+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Raleway&display=swap');
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: #e5d7fc;
+}
+.userpost_form{
+    overflow: hidden;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: black;
+}
+a:focus{
+    color: black;
+}
+a:active{
+    color: black;
+}
+.btn-success{
+    margin: 0 auto;
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+.error_meme{
+    margin-top: 80px;
+}
+.userpost_error{
+    color: red;
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 55px;
+    right: 5px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 9px;
+    color: #5B00FF;
+}
+h3{
+    color:#1E90FF;
+    font-family: 'Poppins', sans-serif;
+}
+.notification-bell{
+    padding-top: 10px;
+}
+.bottom-nav-li:active{
+    color: #5B00FF;
+}
+.bottom-nav-li:focus{
+    color: #5B00FF;
+}
+.bottom-nav-link{
+    display: flex;
+}
+.bi-house{
+    color: #828283;
+}
+.bi-person{
+    color: #828283;
+}
+.bi-camera{
+    color: #828283;
+}
+.bi-bell-fill{
+    color: #00cfff;
+}
+.bi-box-arrow-right{
+    color: #828283;
+}
+.bi-box-arrow-in-left{
+    color: #828283;
+    font-size: 24px;
+}
+/*Navbar*/
+.sticky{
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    background: white;
+}
+.bottom-nav-conatiner{
+    padding: 10px 15px 10px 15px;
+    border-top: 0.5px solid silver;
+}
+.bottom-nav-ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.bottom-nav-li{
+    list-style: none;
+}
+.bottom-nav-link{
+    display: flex;
+}
+/*Navbar*/
+.modal-header{
+    border-bottom: none;
+}
+.modal-footer{
+    border-top: none;
+}
+.nav-user-profile-photo{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
+.navbar{
+    background-color: #5B00FF;
+    position: fixed;
+    width: 100%;
+}
+.navbar-brand:hover{
+    color: whitesmoke;
+}
+.navbar-brand{
+    color: whitesmoke;
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 0.4px;
+}
+.fries-icon{
+    cursor: pointer;
+}
+.i1{
+    width: 35px;
+    height: 5px;
+    background-color: whitesmoke;
+    margin: 5px 0;
+    border-radius: 12px;
+}
+.i2{
+    width: 20px;
+    height: 5px;
+    background-color: whitesmoke;
+    margin: 5px 0;
+    border-radius: 12px;
+}
+.i3{
+    width: 35px;
+    height: 5px;
+    background-color: whitesmoke;
+    margin: 5px 0;
+    border-radius: 12px;
+}
+

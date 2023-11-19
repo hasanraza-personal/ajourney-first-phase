@@ -1,0 +1,17 @@
+body{
+    background-color: #fcfcfc69;
+    font-family: 'Montserrat', sans-serif;
+}
+.signup-form{
+    margin-top: .5rem;
+}
+.back-to-login{
+    margin-top: 15px;
+}
+.back-to-login a{
+    color: #000;
+}
+.back-to-login a:hover{
+    color: #fd3957;
+    border-bottom: 1px solid #fd3957;
+}
